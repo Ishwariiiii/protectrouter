@@ -1,0 +1,32 @@
+.logout-button {
+  height: 50px;
+  width: 150px;
+  float: right;
+  border-radius: 20px;
+  background-color: rgb(223, 75, 75);
+  font-weight: 700;
+}
+
+.logout-button:hover {
+  background-color: rgb(214, 62, 24);
+}
+
+/* .btn1{
+  height: 30px;
+  background-color: green;
+  width: 60px;
+} */
+.btn1:hover {
+  background-color: rgb(170, 89, 89);
+  font-weight: 600;
+}
+/* .btn2{
+  height: 30px;
+  background-color: green;
+  width: 60px;
+} */
+
+.btn2:hover {
+  background-color: rgb(214, 142, 48);
+  font-weight: 700;
+}
